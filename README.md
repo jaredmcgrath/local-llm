@@ -1,6 +1,10 @@
 # local-llm
 Hub for learning about LLMs that run on local networks
 
+Debian VS WSL
+Debian outperforms WSL hands down
+Bare metal linux recommended
+
 Useful Links
 
 NetworkChuck OLLAMA Install Process
